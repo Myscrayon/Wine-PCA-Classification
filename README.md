@@ -1,3 +1,10 @@
+[![Python](https://img.shields.io/badge/Python-3.9%2B‑blue?logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/numpy‑‑013243?logo=numpy&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/pandas‑‑150458?logo=pandas&logoColor=white)](#)
+[![scikit‑learn](https://img.shields.io/badge/scikit‑learn‑f7931e?logo=scikit‑learn&logoColor=white)](#)
+[![Matplotlib](https://img.shields.io/badge/matplotlib‑‑11557c?logo=matplotlib&logoColor=white)](#)
+[![MIT License](https://img.shields.io/github/license/Myscrayon/Wine‑PCA‑Classification)](https://github.com/Myscrayon/Wine‑PCA‑Classification/blob/main/LICENSE)
+
 # Wine Dataset PCA + Logistic Regression
 
 A classic machine learning project demonstrating **Principal Component Analysis (PCA)** for dimensionality reduction and **Logistic Regression** for multi-class classification on the UCI Wine dataset.
